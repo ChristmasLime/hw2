@@ -38,6 +38,7 @@ public class Main {
         var paper = 763789;
         paper = paper + 4;
         System.out.println(paper);
+
     }
 
     public static void task3() {
